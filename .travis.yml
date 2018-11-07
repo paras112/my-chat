@@ -1,0 +1,4 @@
+language:python3
+django:
+      -2.1.3
+      -django-channels

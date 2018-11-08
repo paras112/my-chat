@@ -1,2 +1,2 @@
 # my-chat
-A chat-messager created usng django channels
+A chat-messager created, by using  django channels
